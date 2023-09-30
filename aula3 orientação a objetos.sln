@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula3 orientação a objetos", "aula3 orientação a objetos\aula3 orientação a objetos.csproj", "{68A1A029-C44B-4390-BF48-6B5A099EB330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agrupamento_notas", "agrupamento_notas\agrupamento_notas.csproj", "{643DEDDF-FB50-4D89-9F13-96505E4CDECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A1A029-C44B-4390-BF48-6B5A099EB330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A1A029-C44B-4390-BF48-6B5A099EB330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A1A029-C44B-4390-BF48-6B5A099EB330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A1A029-C44B-4390-BF48-6B5A099EB330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643DEDDF-FB50-4D89-9F13-96505E4CDECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643DEDDF-FB50-4D89-9F13-96505E4CDECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643DEDDF-FB50-4D89-9F13-96505E4CDECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643DEDDF-FB50-4D89-9F13-96505E4CDECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E1D0D21-E5A4-4130-AE50-C3E9B01FC896}
+	EndGlobalSection
+EndGlobal
